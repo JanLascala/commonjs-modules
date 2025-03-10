@@ -1,2 +1,2 @@
-const names = require(`./names`)
+const fullName = require(`./names`)
 const hobbies = require(`./hobbies`)
